@@ -1,0 +1,1 @@
+alarm[0] = self.attack_cooldown;
