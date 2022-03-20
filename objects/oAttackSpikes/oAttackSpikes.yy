@@ -20,17 +20,14 @@
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
-  "properties": [
-    {"varType":1,"value":"100","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"x_offset","tags":[],"resourceType":"GMObjectProperty",},
-    {"varType":0,"value":"50","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"y_offset","tags":[],"resourceType":"GMObjectProperty",},
-  ],
+  "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Handlers",
-    "path": "folders/Objects/Handlers.yy",
+    "name": "Attacks",
+    "path": "folders/Objects/Upgrades/Abilities/Attacks.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oAbilityHandler",
+  "name": "oAttackSpikes",
   "tags": [],
   "resourceType": "GMObject",
 }
